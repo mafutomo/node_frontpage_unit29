@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.head {
+  background-color: #333;
+}
+
+.important-releases{
+  background-color: #eaf5e9;
+}
+
+.block-one{
+  background-color: #026e00;
+}
+
+.block-two{
+  background-color: #026e00;
+}
+
+
+.foot{
+  background-color: #333;
+  display: 'grid'
+}
+/*//^^^^simple style^^^^^//*/
+
+/*//vvvvv Grid Style vvvvv//*/
